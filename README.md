@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/Kovasuel/filament.github.i
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### To-Do list / links for this project:
+- https://www.youtube.com/watch?v=RaKX4A5EiQo
+- https://pages.github.com/
+- https://help.github.com/articles/using-a-custom-domain-with-github-pages/
+- https://github.com/Kovasuel/filament.github.io/settings > create and route to filament.tungsten.tech
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
